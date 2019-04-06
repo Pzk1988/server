@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<InfixExpressions>
+    <InfixExpressions out="out_010202" expression="!in_010202"/>
+    <InfixExpressions out="out_010101" expression="in_010101 &amp; in_010102"/>
+    <InfixExpressions out="Coil_1" expression="+Coil_0 | out_010514"/>
+    <InfixExpressions out="Coil_8" expression="( out_010101 &amp; in_010102 ) &amp; ( -Coil_1 )"/>
+    <InfixExpressions out="out_010102" expression="( !out_010101 &amp; in_010102 ) &amp; ( Room_9 > 20.3 )"/>
+    <InfixExpressions out="out_010302" expression="( ( !out_010101 &amp; in_010102 ) | Coil_3 ) &amp; ( Room_1 > 20.3 )"/>
+    <InfixExpressions out="out_010201" expression="in_010201"/>
+    <InfixExpressions out="out_010203" expression="-in_010203"/>
+    <InfixExpressions out="out_010204" expression="+in_010204"/>
+    <InfixExpressions out="out_010301" expression="in_010301"/>
+    <InfixExpressions out="out_010308" expression="in_010308"/>
+    <InfixExpressions out="out_010316" expression="in_010316"/>
+    <InfixExpressions out="out_010416" expression="Room_0 > 24.0"/>
+    <InfixExpressions out="out_010415" expression="Alarm"/>
+</InfixExpressions>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Coils>
+    <Coil name="Coil_0"/>
+    <Coil name="Coil_1"/>
+    <Coil name="Coil_2"/>
+    <Coil name="Coil_3"/>
+    <Coil name="Coil_4"/>
+    <Coil name="Alarm"/>
+    <Coil name="Coil_6"/>
+    <Coil name="Coil_7"/>
+    <Coil name="Coil_8"/>
+    <Coil name="Coil_9"/>
+    <Coil name="Coil_10"/>
+    <Coil name="Coil_11"/>
+    <Coil name="Coil_12"/>
+    <Coil name="Coil_13"/>
+    <Coil name="Coil_14"/>
+    <Coil name="Coil_15"/>
+    <Coil name="Coil_16"/>
+    <Coil name="Coil_17"/>
+    <Coil name="Coil_18"/>
+    <Coil name="Coil_19"/>
+</Coils>

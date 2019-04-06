@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Inputs>
+    <TempInput id="28-000005bbdcec" name="Room_0"/>
+    <TempInput id="28-000005bbe0e6" name="Room_1"/>
+    <TempInput id="28-000008d6bac2" name="Room_2"/>
+    <TempInput id="28-000008d6bac3" name="Room_3"/>
+    <TempInput id="28-000008d6bac4" name="Room_4"/>
+    <TempInput id="28-000008d6bac5" name="Room_5"/>
+    <TempInput id="28-000008d6bac6" name="Room_6"/>
+    <TempInput id="28-000008d6bac7" name="Room_7"/>
+    <TempInput id="28-000008d6bac8" name="Room_8"/>
+    <TempInput id="28-000008d6bac9" name="Room_9"/>
+</Inputs>
